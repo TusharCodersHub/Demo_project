@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "627648889924",
+    "project_id": "fir-project-df5be",
+    "storage_bucket": "fir-project-df5be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627648889924:android:5f1531f580d220b4aa2811",
+        "android_client_info": {
+          "package_name": "com.example.demo_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxOkPd_Q9CSYOfjTWS01_Zbn--sX_Toms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
